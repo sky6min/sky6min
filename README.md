@@ -12,6 +12,12 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+### 🤝🏻 &nbsp;나의 기술 블로그
+
+<p align="left">
+<a href="https://pangdev.tistory.com/"><img src="https://img.shields.io/badge/-https://pangdev.tistory.com/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)&nbsp;
@@ -44,23 +50,13 @@
 ### ⚙️ &nbsp;GitHub Analytics & Baekjoon Online Judge ✏️
 
 <p align="center">
-<a href="https://github.com/sorrow4468">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sorrow4468&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/sky6min">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sky6min&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/sorrow4468">  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sorrow4468&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/sky6min">  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sky6min&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://solved.ac/sorrow4468">
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sorrow4468">
+<a href="https://solved.ac/sky6min">
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sky6min">
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="left">
-<a href="mailto:sorrow4468@gmail.com"><img src="https://img.shields.io/badge/-sorrow4468@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
------
-
-2022.01.31에 마지막으로 갱신함
