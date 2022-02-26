@@ -56,7 +56,7 @@
 <a href="https://github.com/sky6min">  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sky6min&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://solved.ac/sky6min">
+<!-- <a href="https://solved.ac/sky6min">
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sky6min">
-</a>
+</a> -->
 </p>
