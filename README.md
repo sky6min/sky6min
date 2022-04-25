@@ -15,7 +15,12 @@
 ### 🤝🏻 &nbsp;나의 기술 블로그
 
 <p align="left">
-<a href="https://pangdev.tistory.com/"><img src="https://img.shields.io/badge/-https://pangdev.tistory.com/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://pangdev.tistory.com/"><img src="https://img.shields.io/badge/-https://pangdev.tistory.com/-50bcdf?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+### 🌱 &nbsp;나의 GitLab
+<p align="left">
+<a href="https://lab.ssafy.com/sky6min"><img src="https://img.shields.io/badge/-https://lab.ssafy.com/sky6min/-D14836?style=flat&logo=Gitlab&logoColor=white"/></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
